@@ -15,26 +15,26 @@ You will be capturing a series of screenshots in the course of this assignment. 
 ### Create a solution and project
 When you are creating a solution within Visual Studio (VS), you will most likely want to create a project at the same time. That is the default way that VS operates, and in most cases that is completely fine. Just keep in mind that there are instances when you may want to create an empty project.
 
-- [ ] Create an empty solution in VS called "Homework1-" and your first and last name without a space (for example, I would create it as Homework1-DavidGreen). This solution should contain a project that will let you create a .NET Core-based C# console app.
-- [ ] Take a screenshot of the solution and project
-- [ ] Add a heading in the Microsoft Word document called "New solution and project screenshot" and paste in the screenshot
+- [x ] Create an empty solution in VS called "Homework1-" and your first and last name without a space (for example, I would create it as Homework1-DavidGreen). This solution should contain a project that will let you create a .NET Core-based C# console app.
+- [x ] Take a screenshot of the solution and project
+- [x ] Add a heading in the Microsoft Word document called "New solution and project screenshot" and paste in the screenshot
 
 ### Navigating Visual Studio
 When you open a Visual Studio (VS) solution and project, a lot of windows are opened up. Each window has a purpose, and depending on what you are working on, may be extremely valuable. In addition, some of the features that might also be helpful don't display by default, so you will need to know that they exist and how to show them.
 
 As you work in VS, you may end up customising what windows are open and where, and that is great. However, sometimes, the view doens't quite work, or VS will open up a window in a place that you don't want it to be. To get things back to where they were when you first installed VS, you can reset your view.
 
-- [ ] Reset your VS window view to defaults (*hint - what menu option likely deals with VS windows?*)
-- [ ] Take a screenshot of the new VS window
-- [ ] Add a heading in the Microsoft Word document called "VS window screenshot" and paste in the screenshot
+- [x ] Reset your VS window view to defaults (*hint - what menu option likely deals with VS windows?*)
+- [x ] Take a screenshot of the new VS window
+- [x ] Add a heading in the Microsoft Word document called "VS window screenshot" and paste in the screenshot
 
 ### Manage folders and files
 All but the most trivial C# programs involves creating multiple C# classes (and other core types) that are stored in individual files. Depending on the size of the project, you may want to organise your code into folders.
-- [ ] Create a new folder called "Classes"
-- [ ] Create a new class with a file name of "EmptyClass.cs"
-- [ ] Take a screenshot of the Solution Explorer that shows the folder and class and add it between the below slashes
+- [x ] Create a new folder called "Classes"
+- [x ] Create a new class with a file name of "EmptyClass.cs"
+- [x ] Take a screenshot of the Solution Explorer that shows the folder and class and add it between the below slashes
 - [ ] Take a screenshot of the contents of the class file that was created (*if this was contained in the above screenshot, you don't have to take a second one*)
-- [ ] Add a heading in the Microsoft Word document called "New folder and class screenshot" and paste in the screenshot (*if this was contained in the above screenshot, just state it in the Word document*)
+- [x ] Add a heading in the Microsoft Word document called "New folder and class screenshot" and paste in the screenshot (*if this was contained in the above screenshot, just state it in the Word document*)
 
 At this point, you've created a new class called "EmptyClass." [That's a terrible name for a class](https://external-preview.redd.it/GSgbX1_nC49ZwGc9yGiN4lvEllsRNDxejwTJnnYR8iY.jpg?auto=webp&s=08d95e550e9fe215e45466c21b64b8c49fc09159). You will completel your first [refactoring](https://en.wikipedia.org/wiki/Code_refactoring) by renaming this class (and its associated file) to something better.
 
